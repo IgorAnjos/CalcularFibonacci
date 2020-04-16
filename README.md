@@ -1,7 +1,6 @@
 # CalcularFibonacci
 
-
- Vamos calcular os números de Finonacci para estudarmos as seguintes linguagens:
+ Calcular a sequência de Fibonacci escolhendo uma daslinguagens:
 
 - [ ] C#
 - [x] Vue
@@ -13,3 +12,5 @@
 - [ ] TypeScript
 - [ ] Backbone.js
 - [ ] Meteor
+
+Clique [aqui](https://igoranjos.github.io/CalcularFibonacci/) para acessar a aplicação.
